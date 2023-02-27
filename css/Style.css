@@ -1,0 +1,54 @@
+*{
+    list-style:none;
+    text-decoration: none;
+    padding:0;
+    margin:0;
+}
+
+:root{
+    border-top: solid red 4px;
+}
+
+header{
+    background-color: black;
+    padding:20px;
+}
+
+li{
+    position:relative;
+    left:7em;
+    color:white;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+
+
+
+
+/*Menu de Navegação do Header*/
+#Livros{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left:80px;
+}
+
+#Autores{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left:80px; 
+}
+#Sobre{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left:80px;
+}
+#Contato{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left:80px;
+}
+/*Menu de Navegação do Header*/
